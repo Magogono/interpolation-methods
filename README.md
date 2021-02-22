@@ -1,0 +1,1 @@
+Finished on 11.06.2020. Python code that implements spline interpolation and Lagrange interpolation.
